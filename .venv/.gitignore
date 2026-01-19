@@ -1,0 +1,21 @@
+# データファイル（個人情報や大きなファイル）
+data/
+predictions/
+
+# 環境設定
+.env
+.env.local
+
+# システムファイル
+.DS_Store
+Thumbs.db
+
+# IDE設定
+.vscode/
+.idea/
+
+# ログファイル
+*.log
+
+# 一時ファイル
+*.tmp
